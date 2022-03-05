@@ -4,6 +4,10 @@ This repository adheres to semantic versioning and follows the conventions of [k
 
 ## [Unreleased]
 
+## [2.0.1] - 2022-03-05
+### Changed
+- Package now publishes to npmjs as well as GitHub packages
+
 ## [2.0.0] - 2021-10-16
 ### Changed
 - Upgrade deps
@@ -64,7 +68,8 @@ This repository adheres to semantic versioning and follows the conventions of [k
 - `babel`, `common`, `flow`, `mocha`, `node` and `typecript` Configs
 - `common`, `flowService` and `typescriptService` Presets
 
-[Unreleased]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v2.0.1...HEAD
+[2.0.1]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v1.0.1...v2.0.0
 [1.0.1]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.5.0...v1.0.0
