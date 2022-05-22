@@ -2,6 +2,17 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [3.0.0](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v2.0.1...v3.0.0) (2022-05-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* Change config name from eslint-config-spoke to eslint-config-danieljimeneznz (#5)
+
+### Features
+
+* Change config name from eslint-config-spoke to eslint-config-danieljimeneznz ([#5](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/issues/5)) ([057f39b](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/commit/057f39bcd24f75917eed555e1e5666b79ee0c8ca))
+
 ### [2.0.1](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v2.0.0...v2.0.1) (2022-05-22)
 
 ### Bug Fixes
