@@ -2,12 +2,11 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
-### [2.0.1](https://github.com/danieljimeneznz/eslint-config-spoke/compare/v2.0.0...v2.0.1) (2022-05-22)
-
+### [2.0.1](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v2.0.0...v2.0.1) (2022-05-22)
 
 ### Bug Fixes
 
-* Add release-please for version management, publish to npmjs ([#3](https://github.com/danieljimeneznz/eslint-config-spoke/issues/3)) ([40fec4e](https://github.com/danieljimeneznz/eslint-config-spoke/commit/40fec4ef78ef74281f764223de959454f990a5b7))
+- Add release-please for version management, publish to npmjs ([#3](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/issues/3)) ([40fec4e](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/commit/40fec4ef78ef74281f764223de959454f990a5b7))
 
 ## [2.0.0] - 2021-10-16
 
@@ -87,11 +86,11 @@ This repository adheres to semantic versioning and follows the conventions of [k
 - `babel`, `common`, `flow`, `mocha`, `node` and `typecript` Configs
 - `common`, `flowService` and `typescriptService` Presets
 
-[unreleased]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v2.0.0...HEAD
-[2.0.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v1.0.1...v2.0.0
-[1.0.1]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.5.0...v1.0.0
-[0.5.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.4.0...v0.5.0
-[0.4.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.3.0...v0.4.0
-[0.3.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.2.0...v0.3.0
-[0.2.0]: https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.1.0...v0.2.0
+[unreleased]: https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v1.0.1...v2.0.0
+[1.0.1]: https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v0.5.0...v1.0.0
+[0.5.0]: https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v0.4.0...v0.5.0
+[0.4.0]: https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v0.3.0...v0.4.0
+[0.3.0]: https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v0.2.0...v0.3.0
+[0.2.0]: https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v0.1.0...v0.2.0
