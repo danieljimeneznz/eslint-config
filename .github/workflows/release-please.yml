@@ -1,0 +1,63 @@
+name: Release please
+
+env:
+  RELEASE_TYPE: node
+
+on:
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    outputs:
+      releases_created: ${{ steps.release.outputs.releases_created }}
+      major: ${{ steps.release.outputs.major }}
+      minor: ${{ steps.release.outputs.minor }}
+      patch: ${{ steps.release.outputs.patch }}
+
+    steps:
+      - name: Release please
+        uses: google-github-actions/release-please-action@v3
+        id: release
+        with:
+          release-type: ${{ env.RELEASE_TYPE }}
+          package-name: release-please-action
+
+  build-and-publish-ghcr:
+    runs-on: ubuntu-latest
+    needs: [release-please]
+    if: needs.release-please.outputs.releases_created
+    steps:
+      - uses: actions/checkout@v3
+
+      - run: npm ci
+
+      - uses: actions/setup-node@v3
+        with:
+          registry-url: "https://npm.pkg.github.com"
+          scope: "@danieljimeneznz"
+
+      - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  build:
+    runs-on: ubuntu-latest
+    needs: [release-please]
+    if: needs.release-please.outputs.releases_created
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          registry-url: "https://registry.npmjs.org"
+          scope: "@danieljimeneznz"
+
+      - run: npm ci
+
+      - run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}

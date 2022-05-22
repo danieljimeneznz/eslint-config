@@ -19,9 +19,6 @@
     "eslintconfig"
   ],
   "main": "index.js",
-  "scripts": {
-    "changelog": "kacl lint && kacl release"
-  },
   "devDependencies": {
     "@brightcove/kacl": "0.1.11"
   },
