@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+### [3.0.1](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v3.0.0...v3.0.1) (2022-05-22)
+
+
+### Bug Fixes
+
+* Move prefer-arrow/import plugins from extends to plugin ([#9](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/issues/9)) ([812687d](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/commit/812687db7e4b166c3d466bd8df066f1802b14ece))
+
 ## [3.0.0](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v2.0.1...v3.0.0) (2022-05-22)
 
 
