@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+### [0.5.1](https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.5.0...v0.5.1) (2022-05-22)
+
+
+### Bug Fixes
+
+* Add release-please for version management, publish to npmjs ([#3](https://github.com/danieljimeneznz/eslint-config-spoke/issues/3)) ([40fec4e](https://github.com/danieljimeneznz/eslint-config-spoke/commit/40fec4ef78ef74281f764223de959454f990a5b7))
+
 ## [2.0.0] - 2021-10-16
 
 ### Changed
