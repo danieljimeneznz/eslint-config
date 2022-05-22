@@ -2,7 +2,7 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
-### [0.5.1](https://github.com/danieljimeneznz/eslint-config-spoke/compare/v0.5.0...v0.5.1) (2022-05-22)
+### [2.0.1](https://github.com/danieljimeneznz/eslint-config-spoke/compare/v2.0.0...v2.0.1) (2022-05-22)
 
 
 ### Bug Fixes
