@@ -1,5 +1,6 @@
 module.exports = {
-  extends: ["eslint:recommended", "prefer-arrow", "import"],
+  extends: ["eslint:recommended"],
+  plugins: ["prefer-arrow", "import"],
   rules: {
     indent: [
       "error",
