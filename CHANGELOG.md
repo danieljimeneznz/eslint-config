@@ -2,6 +2,17 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [4.0.0](https://github.com/danieljimeneznz/eslint-config/compare/v3.0.1...v4.0.0) (2022-06-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Rename eslint-config repo, typescriptService as typescript (#11)
+
+### Features
+
+* Rename eslint-config repo, typescriptService as typescript ([#11](https://github.com/danieljimeneznz/eslint-config/issues/11)) ([944edb6](https://github.com/danieljimeneznz/eslint-config/commit/944edb61acd3a04c4433596df7477331d57138c2))
+
 ### [3.0.1](https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/compare/v3.0.0...v3.0.1) (2022-05-22)
 
 
