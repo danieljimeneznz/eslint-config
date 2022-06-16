@@ -1,14 +1,14 @@
 {
-  "name": "@danieljimeneznz/eslint-config-danieljimeneznz",
+  "name": "@danieljimeneznz/eslint-config",
   "version": "3.0.1",
   "description": "danieljimeneznz's eslint config",
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danieljimeneznz/eslint-config-danieljimeneznz"
+    "url": "https://github.com/danieljimeneznz/eslint-config"
   },
   "bugs": {
-    "url": "https://github.com/danieljimeneznz/eslint-config-danieljimeneznz/issues"
+    "url": "https://github.com/danieljimeneznz/eslint-config/issues"
   },
   "keywords": [
     "eslint",

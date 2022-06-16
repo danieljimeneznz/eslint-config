@@ -7,18 +7,18 @@ This package provides danieljimeneznz's .eslintrc.yaml as an extensible [shared 
 Install the library using
 
 ```
-npm i -D @danieljimeneznz/eslint-config-danieljimeneznz \
-eslint-plugin-import eslint-plugin-prefer-arrow
+npm i -D @danieljimeneznz/eslint-config \
+eslint eslint-plugin-import eslint-plugin-prefer-arrow
 ```
 
 ## Usage
 
 Create a `.eslintrc.yaml` file in the root of the repo you are working on and extend the preset/config you wish to use
 
-e.g. using the `typescriptService` and `mocha` linting rules
+e.g. using the `typescript` and `node` linting rules
 
 ```yaml
 extends:
-  - "@danieljimeneznz/eslint-config-danieljimeneznz/presets/typescriptService"
-  - "@danieljimeneznz/eslint-config-danieljimeneznz/configs/mocha"
+  - "@danieljimeneznz/eslint-config/presets/typescript"
+  - "@danieljimeneznz/eslint-config/presets/node"
 ```
