@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [5.0.4](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.3...v5.0.4) (2022-06-18)
+
+
+### Bug Fixes
+
+* Add missing `format` from [@typescript-eslint](https://github.com/typescript-eslint) rules ([#21](https://github.com/danieljimeneznz/eslint-config/issues/21)) ([780be0f](https://github.com/danieljimeneznz/eslint-config/commit/780be0f2876cd8350b25cf4a08504fdceb104dec))
+
 ## [5.0.3](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.2...v5.0.3) (2022-06-18)
 
 
