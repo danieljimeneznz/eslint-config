@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [5.0.5](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.4...v5.0.5) (2022-06-18)
+
+
+### Bug Fixes
+
+* Allow leadingUnderscore for const variable names ([#23](https://github.com/danieljimeneznz/eslint-config/issues/23)) ([62bc3be](https://github.com/danieljimeneznz/eslint-config/commit/62bc3be5e344a3dcae2ca1e275a2248bffaa6ceb))
+
 ## [5.0.4](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.3...v5.0.4) (2022-06-18)
 
 
