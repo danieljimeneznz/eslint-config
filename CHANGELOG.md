@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [5.0.3](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.2...v5.0.3) (2022-06-18)
+
+
+### Bug Fixes
+
+* Space after `strictCamelCase` ([#19](https://github.com/danieljimeneznz/eslint-config/issues/19)) ([64d995a](https://github.com/danieljimeneznz/eslint-config/commit/64d995a8b793805a65212e81103a36f8f167d991))
+
 ## [5.0.2](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.1...v5.0.2) (2022-06-18)
 
 
