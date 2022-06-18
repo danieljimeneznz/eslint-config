@@ -2,6 +2,17 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [5.0.0](https://github.com/danieljimeneznz/eslint-config/compare/v4.0.0...v5.0.0) (2022-06-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* Enforce strong typescript naming conventions, move presets to configs dir (#13)
+
+### Features
+
+* Enforce strong typescript naming conventions, move presets to configs dir ([#13](https://github.com/danieljimeneznz/eslint-config/issues/13)) ([078af5f](https://github.com/danieljimeneznz/eslint-config/commit/078af5faaa6e6659040547c73292041c59baad35))
+
 ## [4.0.0](https://github.com/danieljimeneznz/eslint-config/compare/v3.0.1...v4.0.0) (2022-06-16)
 
 
