@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [5.0.1](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.0...v5.0.1) (2022-06-18)
+
+
+### Bug Fixes
+
+* Incorrect typescript rules, add curly eslint rule ([#15](https://github.com/danieljimeneznz/eslint-config/issues/15)) ([7cc8c9f](https://github.com/danieljimeneznz/eslint-config/commit/7cc8c9f69286557ce98eb5b7fe81104b805734e0))
+
 ## [5.0.0](https://github.com/danieljimeneznz/eslint-config/compare/v4.0.0...v5.0.0) (2022-06-18)
 
 
