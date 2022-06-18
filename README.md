@@ -21,10 +21,9 @@ npm i -D @typescript-eslint/parser @typescript-eslint/eslint-plugin
 
 Create a `.eslintrc.yaml` file in the root of the repo you are working on and extend the preset/config you wish to use
 
-e.g. using the `node` and `typescript` linting rules
+e.g. using the `typescript` linting rules (additional rules can be added to this `extends` list)
 
 ```yaml
 extends:
-  - "@danieljimeneznz/eslint-config/configs/node"
   - "@danieljimeneznz/eslint-config/configs/typescript"
 ```
