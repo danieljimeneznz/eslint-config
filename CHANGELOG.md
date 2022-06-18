@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [5.0.2](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.1...v5.0.2) (2022-06-18)
+
+
+### Bug Fixes
+
+* Removed extreneous max-len `ignorePattern` ([#17](https://github.com/danieljimeneznz/eslint-config/issues/17)) ([11d56fc](https://github.com/danieljimeneznz/eslint-config/commit/11d56fc02f86b0ead3e6d89fb178cf1290c6bfb6))
+
 ## [5.0.1](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.0...v5.0.1) (2022-06-18)
 
 
