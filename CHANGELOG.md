@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [5.0.6](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.5...v5.0.6) (2022-06-21)
+
+
+### Bug Fixes
+
+* Move most peerDeps into deps as these are required ([#26](https://github.com/danieljimeneznz/eslint-config/issues/26)) ([4da1cca](https://github.com/danieljimeneznz/eslint-config/commit/4da1cca46b80453ecd62c71ecd177ccf9731127b))
+
 ## [5.0.5](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.4...v5.0.5) (2022-06-18)
 
 
