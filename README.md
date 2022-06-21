@@ -7,14 +7,7 @@ This package provides danieljimeneznz's .eslintrc.yaml as an extensible [shared 
 Install the library using:
 
 ```sh
-npm i -D @danieljimeneznz/eslint-config \
-eslint eslint-plugin-import eslint-plugin-prefer-arrow
-```
-
-If you are making use of typescript install the additional dependencies:
-
-```sh
-npm i -D @typescript-eslint/parser @typescript-eslint/eslint-plugin
+npm i -D eslint @danieljimeneznz/eslint-config
 ```
 
 ## Usage
