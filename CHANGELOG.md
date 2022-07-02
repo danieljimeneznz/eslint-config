@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [5.0.7](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.6...v5.0.7) (2022-07-02)
+
+
+### Bug Fixes
+
+* Allow destructured variables to be snake case, closes [#28](https://github.com/danieljimeneznz/eslint-config/issues/28) ([#29](https://github.com/danieljimeneznz/eslint-config/issues/29)) ([f748b96](https://github.com/danieljimeneznz/eslint-config/commit/f748b96dc17d6e17109cee8963ce57c2bba36920))
+
 ## [5.0.6](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.5...v5.0.6) (2022-06-21)
 
 
