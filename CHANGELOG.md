@@ -2,6 +2,17 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [6.0.0](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.7...v6.0.0) (2022-08-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* Remove camelcase rule from eslint, reduce ts camelcase strictness (#31)
+
+### Features
+
+* Remove camelcase rule from eslint, reduce ts camelcase strictness ([#31](https://github.com/danieljimeneznz/eslint-config/issues/31)) ([3aa7e07](https://github.com/danieljimeneznz/eslint-config/commit/3aa7e07dccf9c0f0a04ef3848a6a0e5a01e423fa))
+
 ## [5.0.7](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.6...v5.0.7) (2022-07-02)
 
 
