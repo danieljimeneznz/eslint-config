@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [6.0.1](https://github.com/danieljimeneznz/eslint-config/compare/v6.0.0...v6.0.1) (2022-11-10)
+
+
+### Bug Fixes
+
+* Require comma dangle on import/exports ([#34](https://github.com/danieljimeneznz/eslint-config/issues/34)) ([d193641](https://github.com/danieljimeneznz/eslint-config/commit/d19364187df13b7163fbf3f1da4a9331a5b8fb6f))
+
 ## [6.0.0](https://github.com/danieljimeneznz/eslint-config/compare/v5.0.7...v6.0.0) (2022-08-21)
 
 
