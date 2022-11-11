@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [6.1.1](https://github.com/danieljimeneznz/eslint-config/compare/v6.1.0...v6.1.1) (2022-11-11)
+
+
+### Bug Fixes
+
+* Update ts-eslint deps for better decorator support ([#38](https://github.com/danieljimeneznz/eslint-config/issues/38)) ([2b40dc4](https://github.com/danieljimeneznz/eslint-config/commit/2b40dc497c1bc4c7034e6636aee3c2453a996180))
+
 ## [6.1.0](https://github.com/danieljimeneznz/eslint-config/compare/v6.0.1...v6.1.0) (2022-11-11)
 
 
