@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [6.1.0](https://github.com/danieljimeneznz/eslint-config/compare/v6.0.1...v6.1.0) (2022-11-11)
+
+
+### Features
+
+* Reduce aggressiveness of typescript naming-convention ([#36](https://github.com/danieljimeneznz/eslint-config/issues/36)) ([62b86a3](https://github.com/danieljimeneznz/eslint-config/commit/62b86a3c9560be25294bdc88d191f803182abe5b))
+
 ## [6.0.1](https://github.com/danieljimeneznz/eslint-config/compare/v6.0.0...v6.0.1) (2022-11-10)
 
 
