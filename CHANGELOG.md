@@ -2,6 +2,17 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [7.0.0](https://github.com/danieljimeneznz/eslint-config/compare/v6.1.1...v7.0.0) (2022-11-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* Remove require-await rule (#40)
+
+### Features
+
+* Remove require-await rule ([#40](https://github.com/danieljimeneznz/eslint-config/issues/40)) ([5bb8ef7](https://github.com/danieljimeneznz/eslint-config/commit/5bb8ef73f44e53f55da46ca3b9bfdebe03f32582))
+
 ## [6.1.1](https://github.com/danieljimeneznz/eslint-config/compare/v6.1.0...v6.1.1) (2022-11-11)
 
 
