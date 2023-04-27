@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com)
 
+## [7.1.0](https://github.com/danieljimeneznz/eslint-config/compare/v7.0.0...v7.1.0) (2023-04-27)
+
+
+### Features
+
+* Remove padded blocks ([#43](https://github.com/danieljimeneznz/eslint-config/issues/43)) ([eeaa78e](https://github.com/danieljimeneznz/eslint-config/commit/eeaa78e12b6cf42fa1dc3cdca24675295c54cc9f))
+
 ## [7.0.0](https://github.com/danieljimeneznz/eslint-config/compare/v6.1.1...v7.0.0) (2022-11-12)
 
 
